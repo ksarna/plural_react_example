@@ -1,4 +1,5 @@
-# plural_react_example
+First encounter with react.js 
+Done with Pluralsight [Building Applications with React and Flux](http://www.pluralsight.com/courses/react-flux-building-applications)
 
 ```
 npm i --save
