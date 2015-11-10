@@ -1,4 +1,5 @@
-First encounter with react.js 
+First encounter with react.js and flux. 
+
 Done with Pluralsight [Building Applications with React and Flux](http://www.pluralsight.com/courses/react-flux-building-applications)
 
 ```
